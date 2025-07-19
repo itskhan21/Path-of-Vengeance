@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Miniboss
+  - Timer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3779003665
+    locked: 0
+  - name: Plateau
+    uniqueID: 2344489895
+    locked: 0
+  - name: Castle Ground
+    uniqueID: 1422167665
+    locked: 0
+  - name: Castle Walls
+    uniqueID: 1812128583
+    locked: 0
+  - name: Castle Deco
+    uniqueID: 757936015
+    locked: 0
+  - name: Plant
+    uniqueID: 2239394909
+    locked: 0
+  - name: Player
+    uniqueID: 4238586283
+    locked: 0
+  - name: Grass
+    uniqueID: 3023564481
+    locked: 0
